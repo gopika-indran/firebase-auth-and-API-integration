@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "705949305400",
+    "project_id": "mock-dc92d",
+    "storage_bucket": "mock-dc92d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:705949305400:android:7419cfc7a66d5d2a9574cd",
+        "android_client_info": {
+          "package_name": "com.example.mock"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtkyhjeBvHVlTfFmx8CccHNu9XbiQkI0Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
